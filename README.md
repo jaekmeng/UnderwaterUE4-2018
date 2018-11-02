@@ -8,4 +8,4 @@ Scottish island and interact with the sea species accurate to Scotland.
 <br />:heavy_check_mark: Modeled realistic underwater lighting effects and physics.
 <br />:heavy_check_mark: Built an underwater enviroment from scratch modelled using real world geographical data.
 <br />:heavy_check_mark: Rigged and animated sea animals in Maya to be used in Unreal Engine.
-<br />:heavy_check_mark: Built an interaction system between fauna and the player to allow the player to learn more about the sea animals.
+<br />:heavy_check_mark: Built an interaction system using Blueprints in Unreal Engine between fauna and the player to allow the player to learn more about the sea animals.
