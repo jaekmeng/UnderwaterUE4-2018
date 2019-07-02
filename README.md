@@ -1,5 +1,7 @@
 # UnderwaterUE4-2018
 
+Source code not made public, please contact for demo!
+
 ![alt tag](https://gdurl.com/WZ4J "Underwater Experience")
 
 Developed an Unreal Engine 4 project that allows the user to realistically dive underwater in a 1:1 scale scene of a
